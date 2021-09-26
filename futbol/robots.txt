@@ -1,1 +1,1 @@
-Sitemap: http://0.0.0.0:4000/futbol/sitemap.xml
+Sitemap: /futbol/sitemap.xml
