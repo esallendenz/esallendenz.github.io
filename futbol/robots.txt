@@ -1,1 +1,3 @@
-Sitemap: /futbol/sitemap.xml
+User-agent: *
+Disallow:
+Sitemap: https://es.allende.nz/futbol/sitemap.xml
